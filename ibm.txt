@@ -1,0 +1,26 @@
+Organization ID
+5vofs2
+Device Type
+NodeMCU
+Device ID
+mcu123
+Authentication Method
+use-token-auth
+Authentication Token
+smartirrigation123
+
+
+
+
+
+
+
+
+
+API key 
+
+a-5vofs2-5uo5lxyu4c
+
+authentication token:
+
+wKFWX&y(X?s1m1b7QA

@@ -1,5 +1,5 @@
 # smart_irrigation
-Smart irrigation system using weather forecasting API, the temperature is monitored, based on the temperature and soil moisture content the motor can be controlled automatically. It can be visualised on web UI. 
+Smart irrigation system using weather forecasting API, the temperature is monitored, based on the temperature,humidity and soil moisture content the motor can be controlled automatically. It can be visualised on web UI. 
 
 Wireless sensor network makes the irrigation smarter and easier. The entire field is monitored continuously through the sensor network.
 
